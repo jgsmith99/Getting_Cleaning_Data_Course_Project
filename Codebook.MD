@@ -5,6 +5,12 @@ output: html_document
 
 Codebook of all the Data and Values used in run_analysis.R
 
+### Resulting Data Sets
+Name                    | Note
+--------------------    | -------------------
+**sub_data_all_merge**  | tidy data set which merges test and train data, subsets only measurements on mean and standard deviation, and uses descriptive activity names and variable names   
+**avg_data**            | tidy data set with the average of each variable for each activity and each subject   
+
 ### Data
 Name                    | Note
 --------------------    | -------------------
