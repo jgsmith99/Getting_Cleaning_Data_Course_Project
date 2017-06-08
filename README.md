@@ -5,7 +5,7 @@ The data for this project represents data collected from the accelerometers from
   
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  
   
-Files in this repository should include this **Readme.md** file, a **Codebook.md** file which lists all the variables and data set names used through the project, and a **run_analysis.R** script file which performs the data getting and cleaning.  
+Files in this repository should include this **Readme.md** file, a **Codebook.md** file which lists all the variables and data set names used through the project, a **run_analysis.R** script file which performs the data getting and cleaning, and an **avg_data.txt** file which is the final data set as listed in step 7 below.  
 
 The run_analysis.R program does the following:  
 1. Downloads and unzips the data set  
